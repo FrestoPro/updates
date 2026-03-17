@@ -1,0 +1,11 @@
+{
+    "version": "0.1.0",
+    "notes": "Initial release",
+    "pub_date": "2026-03-17T00:00:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2k2Qi8zZ1U1aG5YYzE1YlNBZjJCSEl2WUJ4Z0NqQ2Myc3NFS3hBMUZhNFhvcWtYaDR5UmF5QmgwK1UydkZXdmNaSUhpNWZnNDFoTDg5dnkzd0xod25yYW9xN08vL1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzE3NTkxCWZpbGU6RnJlc3RvXzAuMS4wX3g2NC1zZXR1cC5leGUKc2pzck5maGJCVU95bHlJN1lybjc0azhwaTV4Q3V5TFRwRGUyRkdvTWtLSUpWRkZhY0kyL2pDZ0tBaUFxUFcyRFUvelhCclRuK3M2emVCYkxiRm80QlE9PQo=",
+            "url": "https://github.com/FrestoPro/updates/releases/download/v0.1.0/Fresto_0.1.0_x64-setup.exe"
+        }
+    }
+}
