@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0",
-    "notes": "Minor Fixes",
-    "pub_date": "2026-03-17T08:27:07Z",
+    "version": "1.0.1",
+    "notes": "Minor bug fixes (Collaboration - Item Images)",
+    "pub_date": "2026-03-18T09:52:19Z",
     "platforms": {
         "windows-x86_64": {
-            "url": "https://github.com/FrestoPro/updates/releases/download/v1.0.0/Fresto_1.0.0_x64-setup.exe",
+            "url": "https://github.com/FrestoPro/updates/releases/download/v1.0.1/Fresto_1.0.1_x64-setup.exe",
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2k2Qi8zZ1U1aGlsd2g2cUJ5RXp6dzRPMllCQWtjWk5vV0FOWU16UUlWZjBJZGRFUjNBQXlIRG96R1NHUWNDYXhSblRJUy9ETGIwYnpycWtGWnRObk81Ni9qeHVrZlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzMxOTk2CWZpbGU6RnJlc3RvXzEuMC4wX3g2NC1zZXR1cC5leGUKNGtjamRKNm8vcEVPK1E5dTdudy9hU0JIdjJsY2k4d1NDa24xRzIzelVlOFpzdmVvNTFxTzlITjQxRE5JV2wwTHdka2hiblhya2pJdnBYcWtHYTV6Q2c9PQo="
         }
     }
