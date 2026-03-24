@@ -1,11 +1,11 @@
 {
-    "version": "1.0.3",
-    "notes": "Minor Bug Fixes",
-    "pub_date": "2026-03-20T01:08:52Z",
-    "platforms": {
-        "windows-x86_64": {
-            "url": "https://github.com/FrestoPro/updates/releases/download/v1.0.3/Fresto_1.0.3_x64-setup.exe",
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2k2Qi8zZ1U1aHYvOXZnUC96QUFjWEtBMkcxKzBMMEVxL1kzQ1orTUxxQlFNaHNsUUNGcmhMSWRCUE1DcmQxaFpVU0RFU20vb3I0eGxNU0RhY2IrVU5ZS3JmMVZwM3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTY1MTUyCWZpbGU6RnJlc3RvXzEuMC4zX3g2NC1zZXR1cC5leGUKR2k4S2NVbElJR2w4L2h6T1dWcTltZFNYVzJrTXJYS1U2SVl5R1FnRmV2QktlUjFDa1NSTDZGQ0RkUEhGL056cWU2VTFFaWFpR3A1Q2I1bFZkZnVtRHc9PQo="
-        }
+  "version": "1.0.4",
+  "notes": "Improved Translations",
+  "pub_date": "2026-03-24T23:54:08Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/FrestoPro/updates/releases/download/v1.0.4/Fresto_1.0.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUK2k2Qi8zZ1U1aG8rbTBLSThiWERCelIwdmM4SFdlV3VCOXVhOVJOcHg3cjF1czNXcVRXWUdKMGcvQ3BWU3VFYlQ2QXpHcTZlNzFnVUNVYmtWS1Y0RmhvVFhGM3JzY2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzkyNzgzCWZpbGU6RnJlc3RvXzEuMC40X3g2NC1zZXR1cC5leGUKM0lXWWh1ak9FaEs3ZnVpekprNXpjVllNSXhxZ0F2WXJaeFF0U1FnRk9PeEpQa01rRzc2a01ZWW5saWpNOW9aOVFGOUZlcEpqZldCejMydEEzL3M2Qmc9PQo="
     }
+  }
 }
